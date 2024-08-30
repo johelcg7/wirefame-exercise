@@ -1,0 +1,47 @@
+
+
+footer{
+    background-color: rgb(75, 73, 73);
+    display:flex;
+}
+
+header {
+    background-color: rgb(75, 73, 73);
+    display:flex;
+    flex-direction: row;
+    gap:50px
+
+}
+.image{
+    margin-left: 450px;
+}
+
+.items{
+    width: 700px;
+    display: flex;
+    padding-left: 0%;
+    justify-content: space-between;
+    padding-right: 0%;
+    align-items: center;
+    
+    
+    
+   
+}
+.items a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration:none;
+    color: antiquewhite;
+}
+
+
+
+
+ main {
+    align-items: center;
+    background-color: antiquewhite;
+    width: 1000px;
+    margin: 0% auto;
+    
+ }
